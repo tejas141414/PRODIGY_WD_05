@@ -26,11 +26,3 @@ A simple and responsive weather web application that fetches and displays the cu
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone or Download
-
-```bash
-git clone https://github.com/yourusername/weather-web-app.git
-
----
